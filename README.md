@@ -2,7 +2,7 @@
 
 This repository estimates **MLB player home run rates (HR/AB)** for the **2025 season** using a **Bayesian hierarchical model**. The lab reports posterior summaries for top players, evaluates model fit via a **posterior predictive check (PPC)**, and includes a short reflection on **shrinkage**.
 
-## Lab Goals
+## Goals
 1. Estimate **home run rate (HR / AB)** for each player in the 2025 MLB season using a **Bayesian hierarchical model**.
 2. Report **posterior means + 95% credible intervals** for the **top 20 players**.
 3. Produce a **Posterior Predictive Check (PPC)** figure.
